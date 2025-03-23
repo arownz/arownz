@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">A software developer exploring various tech stacks</h3>
+<h3 align="center">A humble software developer and student exploring various tech stacks</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=0e75b6&style=flat" alt="arownz" />
+  <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=brightgreen&style=flat" alt="arownz" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=arownz&theme=gruvbox" alt="arownz" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arownz&theme=onestar&no-frame=true&no-bg=true&margin-w=15" alt="arownz" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arownz&show_icons=true&locale=en&theme=default" alt="arownz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arownz&show_icons=true&locale=en&theme=vue-dark" alt="arownz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arownz&theme=default" alt="arownz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arownz&theme=vue-dark" alt="arownz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arownz&show_icons=true&locale=en&layout=compact&theme=default" alt="arownz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arownz&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="arownz" />
 </p>
 
 ---
@@ -36,6 +36,10 @@
 - 📫 How to reach me **pasionharold01@gmail.com**
 - 📄 Know about my experiences [Here](https://arownz.github.io/responsive_resume/)
 - ⚡ Fun fact **I use AI to guide me as I currently grasp everything**
+
+<p align="center">
+  <img src="https://media.tenor.com/8SwMyK5qUE4AAAAi/zelda-totk.gif" alt="Legend of Zelda" width="500" />
+</p>
 
 ---
 
@@ -166,18 +170,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://camo.githubusercontent.com/23e1d5b1707b3b3e4b8f1fbf7a2f7f078f2a3f4d7f5d5e3e7e7d1e5d1e3e3f2/68747470733a2f2f7061636d616e2e6d657461666f7263652e6465762f737461742e69636f" alt="PacMan eating contributions" width="600" height="200" />
-</p>
-
-<!-- Pac-Man animation can be added using an SVG file, but GitHub READMEs do not support such dynamic animations directly. You can include a static image or GIF.-->
-
-<!-- For an animated SVG, consider hosting it externally and linking it here. -->
-
-<p align="center">
-  <a href="https://github.com/arownz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  </a>
+  <img src="https://media.tenor.com/4Yh80RGfl44AAAAm/link-%C3%B1e%C3%B1e%C3%B1.webp" alt="Legend of Zelda" width="200" />
 </p>
