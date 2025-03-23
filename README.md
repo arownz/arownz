@@ -1,55 +1,51 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Harold&fontSize=40&fontAlign=50&fontColor=fff)
+<h1 align="center">Hi 👋, I'm Harold</h1>
+<h3 align="center">A software developer (I don't know what to major so I stick base on my stack)</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=0e75b6&style=flat" alt="arownz" /> </p>
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **[Lexia](https://github.com/arownz/godotcaps)**
-- 🌱 Learning **Godot**
-- 👯 Looking to collaborate on **[Lexia](https://github.com/arownz/godotcaps)**
-- 🤝 Seeking help with **[Lexia](https://github.com/arownz/godotcaps)**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arownz" alt="arownz" /></a> </p>
+
+- 🔯 I’m currently working on [Lexia](https://github.com/arownz/godotcaps)
+
+- 🌱 I’m currently learning **Godot**
+
+- 👯 I’m looking to collaborate on [Lexia](https://github.com/arownz/godotcaps)
+
+- 🤝 I’m looking for help with [Lexia](https://github.com/arownz/godotcaps)
+
+- 👨‍💻 All of my projects are available at [https://github.com/arownz/](https://github.com/arownz/)
+
 - 💬 Ask me about **React, Flutter, Godot**
-- 📫 Reach me at **pasionharold01@gmail.com**
-- 📄 My Resume: **[View Here](https://arownz.github.io/responsive_resume/)**
-- ⚡ Fun fact: **I use AI to guide me as I grasp everything**
 
----
+- 📧 How to reach me **pasionharold01@gmail.com**
 
-## 🚀 Tech Stack & Tools
-<p align="center">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+- 📝 Know about my experiences [https://arownz.github.io/responsive_resume/](https://arownz.github.io/responsive_resume/)
+
+- ⚡ Fun fact **I use AI to guide me as I currently grasp everything**
+
+<h3 align="left">Support Me:</h3>
+<p align="left">
+<a href="https://ko-fi.com/arownz" target="blank"><img src="https://cdn.ko-fi.com/cdn/kofi_button_dark.png" alt="Support me on Ko-fi" width="200" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arownz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arownz&theme=radical" width="48%" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omskrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omskrp" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19126644/arownz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arownz on Stack Overflow" height="30" width="40" /></a>
+<a href="https://discord.gg/qswRjJJF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join my Discord" height="30" width="40" /></a>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arownz&theme=onedark&margin-w=15" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> </a>
 </p>
 
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/omskrp"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/19126644/arownz"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://discord.gg/qswRjJJF"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,mongodb,flutter,dart,godot,python" alt="My Tech Stack" />
 </p>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=150)
