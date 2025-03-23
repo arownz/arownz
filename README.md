@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">A passionate full stack developer (I don't know what to major so I full stack for now)</h3>
+<h3 align="center">A software developer (I don't know what to major so I stick base on my stack)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=0e75b6&style=flat" alt="arownz" /> </p>
 
