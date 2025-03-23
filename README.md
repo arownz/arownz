@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harold</h1>
-<h3 align="center">A humble software developer and student exploring various tech stacks</h3>
+<h3 align="center">A developer(nah i use AI) and student exploring various tech stacks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=brightgreen&style=flat" alt="arownz" />
