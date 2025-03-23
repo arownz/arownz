@@ -38,7 +38,7 @@
 - ⚡ Fun fact **I use AI to guide me as I currently grasp everything**
 
 <p align="center">
-  <img src="https://media.tenor.com/8SwMyK5qUE4AAAAi/zelda-totk.gif" alt="Legend of Zelda" width="500" />
+  <img src="https://media.tenor.com/8SwMyK5qUE4AAAAm/zelda-totk.webp" alt="Legend of Zelda" width="500" />
 </p>
 
 ---
