@@ -34,7 +34,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/arownz/](https://github.com/arownz/)
 - 💬 Ask me about **React, Flutter, Godot**
 - 📫 How to reach me **pasionharold01@gmail.com**
-- 📄 Know about my experiences [Here](https://arownz.github.io/responsive_resume/)
 - ⚡ Fact **I use AI to guide me as I currently grasp everything**
 
 <p align="center">
