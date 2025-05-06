@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harold</h1>
-<h3 align="center">A student (I use AI) exploring various tech stacks</h3>
+<h3 align="center">A student exploring various tech stacks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=brightgreen&style=flat" alt="arownz" />
@@ -34,8 +34,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/arownz/](https://github.com/arownz/)
 - 💬 Ask me about **React, Flutter, Godot**
 - 📫 How to reach me **pasionharold01@gmail.com**
-- ⚡ Fact **I use AI to guide me as I currently grasp everything**
-
+- 
 <p align="center">
   <img src="https://media.tenor.com/8SwMyK5qUE4AAAAm/zelda-totk.webp" alt="Legend of Zelda" width="500" />
 </p>
