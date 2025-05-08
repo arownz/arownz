@@ -2,6 +2,10 @@
 <h3 align="center">A student exploring various tech stacks</h3>
 
 <p align="center">
+<a href="https://app.daily.dev/arownz"><img src="https://api.daily.dev/devcards/v2/58SQ1HpQnWaVUqVBeyWFE.png?r=k4f&type=default" width="356" alt="Harold Pasion's Dev Card"/></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arownz&label=Profile%20views&color=brightgreen&style=flat" alt="arownz" />
 </p>
 
