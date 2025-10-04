@@ -40,7 +40,8 @@
 - 📫 How to reach me **pasionharold01@gmail.com**
   
 <p align="center">
-  <img src="https://media.tenor.com/8SwMyK5qUE4AAAAm/zelda-totk.webp" alt="Legend of Zelda" width="500" />
+  <img src="![twerking-aatrox-aatrox](https://github.com/user-attachments/assets/3bf22d4d-da41-4066-98fa-68bc7f2f562e)
+" alt="Legend of Zelda" width="500" />
 </p>
 
 ---
