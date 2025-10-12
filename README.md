@@ -37,7 +37,7 @@
 - 🤝 I’m looking for help with [Lexia](https://github.com/arownz/godotcaps)
 - 👨‍💻 All of my projects are available at [https://github.com/arownz/](https://github.com/arownz/)
 - 💬 Ask me about **React, Flutter, Godot**
-- 📫 How to reach me **pasionharold01@gmail.com**
+- 📫 How to reach me **pasionharold252002@gmail.com**
   
 <p align="center">
   <img src="https://media.tenor.com/HMnWoQO2GscAAAAM/twerking-aatrox-aatrox.gif" alt="gah daym" width="500" />
