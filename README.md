@@ -35,10 +35,6 @@
 - 💬 Ask me about **React, Flutter, Godot**
 - 👯 I’m looking to collaborate on [Lexia](https://github.com/arownz/godotcaps)
 - 📫 How to reach me **pasionharold252002@gmail.com**
-  
-<p align="center">
-  <img src="https://media.tenor.com/HMnWoQO2GscAAAAM/twerking-aatrox-aatrox.gif" alt="gah daym" width="500" />
-</p>
 
 ---
 
