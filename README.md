@@ -161,7 +161,3 @@
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arownz" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/4Yh80RGfl44AAAAm/link-%C3%B1e%C3%B1e%C3%B1.webp" alt="Legend of Zelda" width="200" />
-</p>
