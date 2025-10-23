@@ -32,7 +32,6 @@
 ### 🌿 About Me
 
 - 👨‍💻 All of my projects/activities are available at [https://github.com/arownz/](https://github.com/arownz/)
-- 👯 I’m looking to collaborate on [Lexia](https://github.com/arownz/godotcaps)
 - 📫 How to reach me **pasionharold252002@gmail.com**
 
 ---
