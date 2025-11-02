@@ -19,8 +19,6 @@
 - Passionate about **full stack engineering** and currently **agentic AI workflows**.
 - Currently exploring **machine learning platforms** like Hugging Face and **AI tools** like ChatGPT, Claude, and Gemini.
 - Portfolio: [harolddevfolio.netlify.app](https://harolddevfolio.netlify.app)
-- Reach me at: [LinkedIn](https://www.linkedin.com/in/harold-pasion-017a131b8/)
-
 ---
 
 ### Tech Stack
@@ -103,9 +101,6 @@
   </a>
   <a href="https://www.linkedin.com/in/harold-pasion-017a131b8/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harold-pasion" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/qswRjJJF" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
 </p>
 
