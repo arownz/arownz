@@ -64,7 +64,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### AI & ML Tools
+#### AI Tools
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=flat&logo=hugging-face&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8A63D2?style=flat)
