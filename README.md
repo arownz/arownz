@@ -17,7 +17,7 @@
 
 - 4th year BSIT student at National University – Dasmariñas, specializing in Mobile and Web Applications.
 - Passionate about **full stack** and currently **agentic AI workflows**.
-- Currently exploring **machine learning platforms** like Hugging Face and **AI tools** like ChatGPT, Claude, and Gemini.
+- Currently exploring **machine learning platforms** like Hugging Face.
 - Portfolio: [harolddevfolio.netlify.app](https://harolddevfolio.netlify.app)
 ---
 
