@@ -43,7 +43,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -53,10 +53,10 @@
 
 #### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 #### Dev Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -67,10 +67,10 @@
 #### AI Tools
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=flat&logo=hugging-face&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-8A63D2?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-1E1E1E?style=flat)
-![Tabnine](https://img.shields.io/badge/Tabnine-FF0099?style=flat)
+![Claude](https://img.shields.io/badge/Claude-8A63D2?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E1E1E?style=flat&logo=deepseek&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-FF0099?style=flat&logo=tabnine&logoColor=white)
 
 #### Game Dev
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
