@@ -80,9 +80,6 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://x.com/omskrp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omskrp" height="30" width="40" />
-  </a>
   <a href="https://stackoverflow.com/users/19126644/arownz" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arownz" height="30" width="40" />
   </a>
