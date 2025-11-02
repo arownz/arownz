@@ -65,7 +65,6 @@
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### AI Tools
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=flat&logo=hugging-face&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8A63D2?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
