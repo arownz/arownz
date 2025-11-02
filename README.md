@@ -16,7 +16,7 @@
 ### About Me
 
 - 4th year BSIT student at National University – Dasmariñas, specializing in Mobile and Web Applications.
-- Passionate about **accessibility-first design**, **frontend engineering**, and **agentic AI workflows**.
+- Passionate about **full stack engineering** and currently **agentic AI workflows**.
 - Currently exploring **machine learning platforms** like Hugging Face and **AI tools** like ChatGPT, Claude, and Gemini.
 - Portfolio: [harolddevfolio.netlify.app](https://harolddevfolio.netlify.app)
 - Reach me at: [LinkedIn](https://www.linkedin.com/in/harold-pasion-017a131b8/)
