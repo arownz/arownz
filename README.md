@@ -1,5 +1,5 @@
 <h1 align="center">Sup, I'm Harold</h1>
-<h5 align="left">An IT student who is curious by nature, driven by purpose who thrives on understanding how systems work, how they’re built, and how they can be improved.</h3>
+<h5 align="left">Curious by nature, driven by purpose who thrives on understanding how systems work, how they’re built, and how they can be improved.</h3>
 
 <p align="center">
   <a href="https://app.daily.dev/arownz">
