@@ -1,6 +1,3 @@
-<h1 align="center">Sup, I'm Harold</h1>
-<h5 align="left">thrives to understand how systems work, how they’re built.</h3>
-
 <p align="center">
   <a href="https://app.daily.dev/arownz">
     <img src="https://api.daily.dev/devcards/v2/58SQ1HpQnWaVUqVBeyWFE.png?r=k4f&type=default" width="356" alt="Harold Pasion's Dev Card"/>
