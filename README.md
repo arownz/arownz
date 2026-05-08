@@ -75,9 +75,6 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/19126644/arownz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arownz" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/harold-pasion-017a131b8/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harold-pasion" height="30" width="40" />
   </a>
