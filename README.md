@@ -13,8 +13,7 @@
 ### About Me
 
 - Passionate about **full stack** and currently **AI workflows**.
-- Currently exploring **machine learning platforms** like Hugging Face.
-- Portfolio: [harolddevfolio.netlify.app](https://harolddevfolio.netlify.app)
+- Currently exploring **ai integrations** and **machine learning platforms** like Hugging Face.
 ---
 
 ### Tech Familiarity
