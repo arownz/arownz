@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://app.daily.dev/arownz">
-    <img src="https://api.daily.dev/devcards/v2/58SQ1HpQnWaVUqVBeyWFE.png?r=k4f&type=default" width="356" alt="Harold Pasion's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/58SQ1HpQnWaVUqVBeyWFE.png?r=k4f&type=default" width="356" alt="Harold Pasion Dev Card"/>
   </a>
 </p>
 
